@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<xmi:XMI xmi:version="2.1" xmlns:uml="http://schema.omg.org/spec/UML/2.1.2" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1">
+	<xmi:Documentation exporter="Enterprise Architect" exporterVersion="6.5"/>
+	<uml:Model xmi:type="uml:Model" name="EA_Model">
+		<packagedElement xmi:type="uml:Package" xmi:id="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka">
+			<packagedElement xmi:type="uml:Class" xmi:id="EAID_09489C14_6C49_48b4_933A_F52222CBCCFF" name="09.Unfaire Advantages"/>
+			<packagedElement xmi:type="uml:Class" xmi:id="EAID_0A46B2C7_EB14_4ea4_8377_2974136A6B1A" name="06. Revenue Streams"/>
+			<packagedElement xmi:type="uml:Class" xmi:id="EAID_263C3AD3_6A99_4ce0_B2E0_6661C203D4D4" name="Value Propositions"/>
+			<packagedElement xmi:type="uml:Class" xmi:id="EAID_2994B7F7_BFD0_4a68_82D7_73B21FA51406" name="$diagram:01.03.Technology"/>
+			<packagedElement xmi:type="uml:Class" xmi:id="EAID_32EBADE3_863F_438f_BB1C_331A4F3B8F89" name="Unfair Advantages"/>
+			<packagedElement xmi:type="uml:Class" xmi:id="EAID_447AFE8B_2BCE_4341_94C1_06533EC88E8A" name="03.Unique Value Proposition"/>
+			<packagedElement xmi:type="uml:Class" xmi:id="EAID_503D2A74_F013_4133_ACDB_A74C0B9974B1" name="07.Cost Structure"/>
+			<packagedElement xmi:type="uml:Class" xmi:id="EAID_59525095_9FD6_44d6_BD52_F5C3969AECBD" name="08. Key Metrics"/>
+			<packagedElement xmi:type="uml:Class" xmi:id="EAID_69FADB38_B970_4055_B620_991A687042BF"/>
+			<packagedElement xmi:type="uml:Class" xmi:id="EAID_72F8752A_2363_4258_9232_F28A31D80220" name="Iteration #:"/>
+			<packagedElement xmi:type="uml:Class" xmi:id="EAID_7BCCB67D_4AD2_43c7_B961_126464AAA47F" name="$diagram:01.01.Business Layer"/>
+			<packagedElement xmi:type="uml:Class" xmi:id="EAID_8E2C7415_D409_4300_9798_D3A4A20F35F3" name="01.Problem"/>
+			<packagedElement xmi:type="uml:Class" xmi:id="EAID_9148212E_AFEA_4326_AD9B_51DAD428BD5E" name="02.Customer Segments"/>
+			<packagedElement xmi:type="uml:Class" xmi:id="EAID_9A459EA5_2613_4f52_AED1_71C6F40B9DDD" name="Channels"/>
+			<packagedElement xmi:type="uml:Class" xmi:id="EAID_AF9B7F02_A1D4_43f7_8CF4_2ED37D075C08" name="Revenue Streams"/>
+			<packagedElement xmi:type="uml:Class" xmi:id="EAID_BB419368_F51D_41d0_9D54_F437FFA3C2D1" name="05.Channels"/>
+			<packagedElement xmi:type="uml:Class" xmi:id="EAID_BE6949C6_AF8A_4c72_B800_10B6F38716F0" name="Key Metrics"/>
+			<packagedElement xmi:type="uml:Class" xmi:id="EAID_C2F81F70_42AF_435e_B83D_A3CD0719E5FE" name="Text"/>
+			<packagedElement xmi:type="uml:Class" xmi:id="EAID_C88A9323_5755_4c7c_95CD_5FBA24649EDE" name="On: 2018/12/23"/>
+			<packagedElement xmi:type="uml:Class" xmi:id="EAID_C9141737_70D8_4a97_A9A9_7CA7BB584D40"/>
+			<packagedElement xmi:type="uml:Class" xmi:id="EAID_CB2A1B44_A67A_4934_AA98_95DE19E840E1" name="Text"/>
+			<packagedElement xmi:type="uml:Class" xmi:id="EAID_CF81E542_47F6_437e_A189_E47C72A8B124" name="04.Solutions"/>
+			<packagedElement xmi:type="uml:Class" xmi:id="EAID_E0D12BB9_D076_4a73_9B7F_F37BBA557AE9" name="Text"/>
+			<packagedElement xmi:type="uml:Class" xmi:id="EAID_E25FA059_5FE4_40c7_9721_1261562A10B4" name="Solution"/>
+			<packagedElement xmi:type="uml:Class" xmi:id="EAID_E6EEC7F4_7342_4a17_8136_9D816E03EC6C" name="Problem"/>
+			<packagedElement xmi:type="uml:Class" xmi:id="EAID_E9018474_D894_47c6_ACB6_76FA26108329" name="Cost Structure"/>
+			<packagedElement xmi:type="uml:Class" xmi:id="EAID_EBE92472_E2B6_4851_A6EB_AB6D6EE55ABF" name="Customer Segments"/>
+			<packagedElement xmi:type="uml:Class" xmi:id="EAID_FD5E4838_B6C3_4ebd_83C2_C3F67A8BFA8A" name="$diagram:01.Marketing"/>
+			<packagedElement xmi:type="uml:Package" xmi:id="EAPK_5EF4E9EB_A3FA_45df_8028_849A136F8100" name="01.Problem">
+				<packagedElement xmi:type="uml:Class" xmi:id="EAID_F7A1E706_1284_4b4f_B1FA_519572DCE754" name="Problem A"/>
+				<packagedElement xmi:type="uml:Class" xmi:id="EAID_453917C7_119B_4fbd_A71B_CB130E331EDC" name="Problem B"/>
+			</packagedElement>
+			<packagedElement xmi:type="uml:Package" xmi:id="EAPK_E6C5E452_2EDE_4fe0_88C9_8A3E2B725768" name="02.Customer Segments">
+				<packagedElement xmi:type="uml:Class" xmi:id="EAID_93C3784F_4656_4750_B796_2EE7873194B3" name="Segment A"/>
+				<packagedElement xmi:type="uml:Class" xmi:id="EAID_EF7D0FE9_65A7_4f42_BF53_E3E89713A106" name="Segment B"/>
+			</packagedElement>
+			<packagedElement xmi:type="uml:Package" xmi:id="EAPK_C818703E_0672_48eb_AB49_4E71C738ABD4" name="03.Unique Value Propositions">
+				<packagedElement xmi:type="uml:Class" xmi:id="EAID_5848CFF4_A111_4639_A12E_8514422631AE" name="Accelerate the learning curve of complex tools"/>
+				<packagedElement xmi:type="uml:Class" xmi:id="EAID_38849580_7A5B_4773_89F3_D1E4B947C635" name="see, repeat, try, test Yourself"/>
+				<packagedElement xmi:type="uml:Class" xmi:id="EAID_ACF141AD_DBDA_4d75_936C_141323D4F1AD" name="Systematic approach to handling complex subjects"/>
+				<packagedElement xmi:type="uml:Class" xmi:id="EAID_A27859D5_15F8_4df3_AA36_77D8AE6B0727" name="Visualize complex themes"/>
+			</packagedElement>
+			<packagedElement xmi:type="uml:Package" xmi:id="EAPK_391ECB22_D96D_4143_B160_B274AE39A6F7" name="04.Solution(Customer Relationships)">
+				<packagedElement xmi:type="uml:Class" xmi:id="EAID_5BD8C151_BD02_41dc_A16E_F6DFE573FBE7" name="Solution A"/>
+				<packagedElement xmi:type="uml:Class" xmi:id="EAID_1CE0912E_26DD_444f_8044_54BE5337F174" name="Solution B"/>
+			</packagedElement>
+			<packagedElement xmi:type="uml:Package" xmi:id="EAPK_9E8A673D_96FE_42e4_96EB_D1C8389F9E41" name="05.Channels">
+				<packagedElement xmi:type="uml:Class" xmi:id="EAID_17F69C9A_43F7_468f_931A_5FC76F2D44C3" name="Channel A"/>
+				<packagedElement xmi:type="uml:Class" xmi:id="EAID_F366E826_763C_4fbd_824F_8A35314EBB99" name="Channel B"/>
+			</packagedElement>
+			<packagedElement xmi:type="uml:Package" xmi:id="EAPK_951E66E6_9401_411e_A336_E6040ED0E0AB" name="06.Revenue Streams">
+				<packagedElement xmi:type="uml:Class" xmi:id="EAID_DA60C4FB_1934_4268_91D9_289C5DEE5A17" name="Revenue Stream A"/>
+				<packagedElement xmi:type="uml:Class" xmi:id="EAID_0B25E189_EF74_4857_AFD7_2F3D28FC5AAC" name="Revenue Stream B"/>
+			</packagedElement>
+			<packagedElement xmi:type="uml:Package" xmi:id="EAPK_81D9D408_A4CF_4f23_ADC9_EB4767D7948D" name="07.Cost Structure">
+				<packagedElement xmi:type="uml:Class" xmi:id="EAID_528AA22A_6EE6_458a_9234_FE734AA91297" name="Cost A"/>
+				<packagedElement xmi:type="uml:Class" xmi:id="EAID_89DC1E60_00E8_4af5_9846_A31319B6CE06" name="Cost B"/>
+			</packagedElement>
+			<packagedElement xmi:type="uml:Package" xmi:id="EAPK_39A46B34_8AE7_4574_BE45_162EA06DDF8F" name="08.Key Metrics">
+				<packagedElement xmi:type="uml:Class" xmi:id="EAID_0166FCE4_6D94_476e_95DA_0CCE695A6AAE" name="Key Metrics A"/>
+				<packagedElement xmi:type="uml:Class" xmi:id="EAID_8B02DD62_4B5E_4c7a_A053_0F20B4E811FC" name="Key Metrics B"/>
+			</packagedElement>
+			<packagedElement xmi:type="uml:Package" xmi:id="EAPK_50967298_7DCF_4adc_99FE_19F5EA18CDFB" name="09.Unfaire Advantages">
+				<packagedElement xmi:type="uml:Class" xmi:id="EAID_F1962B9A_1588_48a3_B690_9A77F5099853" name="Unfair Advantage A"/>
+				<packagedElement xmi:type="uml:Class" xmi:id="EAID_8709E59B_31F2_4082_B81A_36282BD5F603" name="Unfair Advantage B"/>
+			</packagedElement>
+		</packagedElement>
+	</uml:Model>
+	<xmi:Extension extender="Enterprise Architect" extenderID="6.5">
+		<elements>
+			<element xmi:idref="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" xmi:type="uml:Package" name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka" scope="public">
+				<model package2="EAID_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" package="EAPK_D688B2A8_214F_4709_B8C4_AE3436E561A1" tpos="5" ea_localid="285" ea_eleType="package"/>
+				<properties documentation="&#xA;Lean Canvas uses the same 9 blocks concept except they’ve been modified slightly to suit the needs/purposes/requirements of a Lean Startup. The Lean Canvas is the perfect one-page format for brainstorming possible business models, the blocks guide you through logical steps starting with your customer problems right through to your unfair advantage (often the hardest block to answer)." isSpecification="false" sType="Package" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:08" modified="2018-12-23 09:47:22" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="PCG_0001_LeanCanvas"/>
+				<packageproperties version="1.0" tpos="5"/>
+				<paths/>
+				<times created="2018-12-23 09:31:08" modified="2018-12-23 09:47:22" lastloaddate="2015-07-09 15:10:14" lastsavedate="2015-07-09 15:10:14"/>
+				<flags iscontrolled="0" isprotected="0" batchsave="0" batchload="0" usedtd="0" logxml="0"/>
+			</element>
+			<element xmi:idref="EAID_09489C14_6C49_48b4_933A_F52222CBCCFF" xmi:type="uml:Boundary" name="09.Unfaire Advantages" scope="public">
+				<model package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="864" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Boundary" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:09" modified="2018-12-23 09:31:09" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+			</element>
+			<element xmi:idref="EAID_0A46B2C7_EB14_4ea4_8377_2974136A6B1A" xmi:type="uml:Boundary" name="06. Revenue Streams" scope="public">
+				<model package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="876" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Boundary" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:10" modified="2018-12-23 09:31:10" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+			</element>
+			<element xmi:idref="EAID_263C3AD3_6A99_4ce0_B2E0_6661C203D4D4" xmi:type="uml:Boundary" name="Value Propositions" scope="public">
+				<model package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="884" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Boundary" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:10" modified="2018-12-23 09:31:10" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=3;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+			</element>
+			<element xmi:idref="EAID_2994B7F7_BFD0_4a68_82D7_73B21FA51406" xmi:type="uml:Text" name="$diagram:01.03.Technology" scope="public">
+				<model package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="853" ea_eleType="element" name="$diagram:01.03.Technology"/>
+				<properties documentation="01.03." isSpecification="false" sType="Text" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:09" modified="2018-12-23 09:31:09" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=16763904;BorderColor=0;BorderWidth=1;FontColor=0;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;" styleex="ConstructID=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka" diagram="EAID_11079179_3B1D_4e87_9EC8_96569F0CC69F"/>
+			</element>
+			<element xmi:idref="EAID_32EBADE3_863F_438f_BB1C_331A4F3B8F89" xmi:type="uml:Boundary" name="Unfair Advantages" scope="public">
+				<model package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="859" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Boundary" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:09" modified="2018-12-23 09:39:29" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=3;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+			</element>
+			<element xmi:idref="EAID_447AFE8B_2BCE_4341_94C1_06533EC88E8A" xmi:type="uml:Boundary" name="03.Unique Value Proposition" scope="public">
+				<model package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="858" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Boundary" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:09" modified="2018-12-23 09:31:09" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+			</element>
+			<element xmi:idref="EAID_503D2A74_F013_4133_ACDB_A74C0B9974B1" xmi:type="uml:Boundary" name="07.Cost Structure" scope="public">
+				<model package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="862" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Boundary" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:09" modified="2018-12-23 09:31:09" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+			</element>
+			<element xmi:idref="EAID_59525095_9FD6_44d6_BD52_F5C3969AECBD" xmi:type="uml:Boundary" name="08. Key Metrics" scope="public">
+				<model package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="860" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Boundary" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:09" modified="2018-12-23 09:31:09" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+			</element>
+			<element xmi:idref="EAID_69FADB38_B970_4055_B620_991A687042BF" xmi:type="uml:Boundary" scope="public">
+				<model package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="871" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Boundary" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:10" modified="2018-12-23 09:31:10" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=4;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+			</element>
+			<element xmi:idref="EAID_72F8752A_2363_4258_9232_F28A31D80220" xmi:type="uml:Boundary" name="Iteration #:" scope="public">
+				<model package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="882" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Boundary" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:10" modified="2018-12-23 09:31:10" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+			</element>
+			<element xmi:idref="EAID_7BCCB67D_4AD2_43c7_B961_126464AAA47F" xmi:type="uml:Text" name="$diagram:01.01.Business Layer" scope="public">
+				<model package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="855" ea_eleType="element" name="$diagram:01.01.Business Layer"/>
+				<properties documentation="01.01." isSpecification="false" sType="Text" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:09" modified="2018-12-23 09:31:09" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=16763904;BorderColor=0;BorderWidth=1;FontColor=0;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;" styleex="ConstructID=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka" diagram="EAID_438EA340_5019_4911_A580_E88F5DE2A3BE"/>
+			</element>
+			<element xmi:idref="EAID_8E2C7415_D409_4300_9798_D3A4A20F35F3" xmi:type="uml:Boundary" name="01.Problem" scope="public">
+				<model package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="877" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Boundary" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:10" modified="2018-12-23 09:31:10" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+			</element>
+			<element xmi:idref="EAID_9148212E_AFEA_4326_AD9B_51DAD428BD5E" xmi:type="uml:Boundary" name="02.Customer Segments" scope="public">
+				<model package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="878" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Boundary" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:10" modified="2018-12-23 09:31:10" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+			</element>
+			<element xmi:idref="EAID_9A459EA5_2613_4f52_AED1_71C6F40B9DDD" xmi:type="uml:Boundary" name="Channels" scope="public">
+				<model package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="881" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Boundary" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:10" modified="2018-12-23 09:31:10" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=3;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+			</element>
+			<element xmi:idref="EAID_AF9B7F02_A1D4_43f7_8CF4_2ED37D075C08" xmi:type="uml:Boundary" name="Revenue Streams" scope="public">
+				<model package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="869" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Boundary" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:09" modified="2018-12-23 09:31:09" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=3;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+			</element>
+			<element xmi:idref="EAID_BB419368_F51D_41d0_9D54_F437FFA3C2D1" xmi:type="uml:Boundary" name="05.Channels" scope="public">
+				<model package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="870" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Boundary" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:09" modified="2018-12-23 09:31:09" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+			</element>
+			<element xmi:idref="EAID_BE6949C6_AF8A_4c72_B800_10B6F38716F0" xmi:type="uml:Boundary" name="Key Metrics" scope="public">
+				<model package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="883" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Boundary" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:10" modified="2018-12-23 09:39:29" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=3;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+			</element>
+			<element xmi:idref="EAID_C2F81F70_42AF_435e_B83D_A3CD0719E5FE" xmi:type="uml:Text" name="Text" scope="public">
+				<model package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="852" ea_eleType="element" name="Text"/>
+				<properties documentation="The Business Model Canvas:" isSpecification="false" sType="Text" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:09" modified="2018-12-23 09:31:09" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+			</element>
+			<element xmi:idref="EAID_C88A9323_5755_4c7c_95CD_5FBA24649EDE" xmi:type="uml:Boundary" name="On: 2018/12/23" scope="public">
+				<model package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="868" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Boundary" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:09" modified="2018-12-23 09:31:09" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+			</element>
+			<element xmi:idref="EAID_C9141737_70D8_4a97_A9A9_7CA7BB584D40" xmi:type="uml:Boundary" scope="public">
+				<model package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="879" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Boundary" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:10" modified="2018-12-23 09:31:10" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+			</element>
+			<element xmi:idref="EAID_CB2A1B44_A67A_4934_AA98_95DE19E840E1" xmi:type="uml:Text" name="Text" scope="public">
+				<model package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="854" ea_eleType="element" name="Text"/>
+				<properties documentation="Business Model Canvas" isSpecification="false" sType="Text" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:09" modified="2018-12-23 09:31:09" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+			</element>
+			<element xmi:idref="EAID_CF81E542_47F6_437e_A189_E47C72A8B124" xmi:type="uml:Boundary" name="04.Solutions" scope="public">
+				<model package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="866" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Boundary" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:09" modified="2018-12-23 09:31:09" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+			</element>
+			<element xmi:idref="EAID_E0D12BB9_D076_4a73_9B7F_F37BBA557AE9" xmi:type="uml:Text" name="Text" scope="public">
+				<model package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="857" ea_eleType="element" name="Text"/>
+				<properties documentation="Look And Repeat" isSpecification="false" sType="Text" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:09" modified="2018-12-23 09:31:09" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+			</element>
+			<element xmi:idref="EAID_E25FA059_5FE4_40c7_9721_1261562A10B4" xmi:type="uml:Boundary" name="Solution" scope="public">
+				<model package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="888" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Boundary" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:10" modified="2018-12-23 09:39:29" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=3;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+			</element>
+			<element xmi:idref="EAID_E6EEC7F4_7342_4a17_8136_9D816E03EC6C" xmi:type="uml:Boundary" name="Problem" scope="public">
+				<model package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="873" ea_eleType="element"/>
+				<properties documentation="Key partnerships frequently involve some degree of sharing of proprietary information, including technologies. An effective key partnership can, in some cases, lead to more formalized relationships such as mergers and acquisitions." isSpecification="false" sType="Boundary" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:10" modified="2018-12-23 09:33:29" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=3;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+			</element>
+			<element xmi:idref="EAID_E9018474_D894_47c6_ACB6_76FA26108329" xmi:type="uml:Boundary" name="Cost Structure" scope="public">
+				<model package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="867" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Boundary" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:09" modified="2018-12-23 09:31:09" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=3;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+			</element>
+			<element xmi:idref="EAID_EBE92472_E2B6_4851_A6EB_AB6D6EE55ABF" xmi:type="uml:Boundary" name="Customer Segments" scope="public">
+				<model package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="861" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Boundary" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:09" modified="2018-12-23 09:31:09" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=3;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+			</element>
+			<element xmi:idref="EAID_FD5E4838_B6C3_4ebd_83C2_C3F67A8BFA8A" xmi:type="uml:Text" name="$diagram:01.Marketing" scope="public">
+				<model package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="851" ea_eleType="element" name="$diagram:01.Marketing"/>
+				<properties documentation="01." isSpecification="false" sType="Text" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:08" modified="2018-12-23 09:31:08" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=16763904;BorderColor=0;BorderWidth=1;FontColor=0;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;" styleex="ConstructID=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka" diagram="EAID_19D43B3E_D3D1_4df7_8E89_79A3708661A9"/>
+			</element>
+			<element xmi:idref="EAPK_5EF4E9EB_A3FA_45df_8028_849A136F8100" xmi:type="uml:Package" name="01.Problem" scope="public">
+				<model package2="EAID_5EF4E9EB_A3FA_45df_8028_849A136F8100" package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="286" ea_eleType="package"/>
+				<properties documentation="1. Problem&#xA;Each customer segment (CS) you are thinking to work with will have a set of problems that they need solving. In this box try listing the one to three high priority problems that you CS has. Without a problem to solve, you don’t have a product/service to offer." isSpecification="false" sType="Package" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:10" modified="2018-12-23 09:31:10" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+				<packageproperties version="1.0"/>
+				<paths/>
+				<times created="2018-12-23 09:31:10" modified="2018-12-23 09:13:23" lastloaddate="2016-03-16 14:55:57" lastsavedate="2016-03-16 14:55:57"/>
+				<flags iscontrolled="0" isprotected="0" batchsave="0" batchload="0" usedtd="0" logxml="0"/>
+			</element>
+			<element xmi:idref="EAID_F7A1E706_1284_4b4f_B1FA_519572DCE754" xmi:type="uml:Class" name="Problem A" scope="public">
+				<model package="EAPK_5EF4E9EB_A3FA_45df_8028_849A136F8100" tpos="0" ea_localid="890" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Class" nType="0" scope="public" isRoot="false" isLeaf="false" isAbstract="false" isActive="false"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:11" modified="2018-12-23 09:31:11" complexity="1" status="Proposed"/>
+				<code product_name="&lt;none&gt;" gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="01.Problem"/>
+			</element>
+			<element xmi:idref="EAID_453917C7_119B_4fbd_A71B_CB130E331EDC" xmi:type="uml:Class" name="Problem B" scope="public">
+				<model package="EAPK_5EF4E9EB_A3FA_45df_8028_849A136F8100" tpos="0" ea_localid="889" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Class" nType="0" scope="public" isRoot="false" isLeaf="false" isAbstract="false" isActive="false"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:10" modified="2018-12-23 09:31:10" complexity="1" status="Proposed"/>
+				<code product_name="&lt;none&gt;" gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="01.Problem"/>
+			</element>
+			<element xmi:idref="EAPK_E6C5E452_2EDE_4fe0_88C9_8A3E2B725768" xmi:type="uml:Package" name="02.Customer Segments" scope="public">
+				<model package2="EAID_E6C5E452_2EDE_4fe0_88C9_8A3E2B725768" package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="287" ea_eleType="package"/>
+				<properties documentation="2. Customer Segments&#xA;The problem and Customer Segments can be viewed as intrinsically connected&#8202;—&#8202;without a CS in mind you can’t think of their problems, and visa-versa." isSpecification="false" sType="Package" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:10" modified="2018-12-23 09:31:10" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+				<packageproperties version="1.0"/>
+				<paths/>
+				<times created="2018-12-23 09:31:11" modified="2018-12-23 08:50:38" lastloaddate="2016-03-16 14:55:57" lastsavedate="2016-03-16 14:55:57"/>
+				<flags iscontrolled="0" isprotected="0" batchsave="0" batchload="0" usedtd="0" logxml="0"/>
+			</element>
+			<element xmi:idref="EAID_93C3784F_4656_4750_B796_2EE7873194B3" xmi:type="uml:Class" name="Segment A" scope="public">
+				<model package="EAPK_E6C5E452_2EDE_4fe0_88C9_8A3E2B725768" tpos="0" ea_localid="892" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Class" nType="0" scope="public" isRoot="false" isLeaf="false" isAbstract="false" isActive="false"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:11" modified="2018-12-23 09:31:11" complexity="1" status="Proposed"/>
+				<code gentype="Java"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="02.Customer Segments"/>
+			</element>
+			<element xmi:idref="EAID_EF7D0FE9_65A7_4f42_BF53_E3E89713A106" xmi:type="uml:Class" name="Segment B" scope="public">
+				<model package="EAPK_E6C5E452_2EDE_4fe0_88C9_8A3E2B725768" tpos="0" ea_localid="891" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Class" nType="0" scope="public" isRoot="false" isLeaf="false" isAbstract="false" isActive="false"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:11" modified="2018-12-23 09:31:11" complexity="1" status="Proposed"/>
+				<code gentype="Java"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="02.Customer Segments"/>
+			</element>
+			<element xmi:idref="EAPK_C818703E_0672_48eb_AB49_4E71C738ABD4" xmi:type="uml:Package" name="03.Unique Value Propositions" scope="public">
+				<model package2="EAID_C818703E_0672_48eb_AB49_4E71C738ABD4" package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="288" ea_eleType="package"/>
+				<properties documentation="3. Unique Value Proposition&#xA;In the middle of the canvas is the UVP. A value proposition is a promise of value to be delivered. It’s the primary reason a prospect should buy from you. A way to get your head around this is to think about why are you different and why should your CS buy/invest time in you." isSpecification="false" sType="Package" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:10" modified="2018-12-23 09:31:10" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+				<packageproperties version="1.0"/>
+				<paths/>
+				<times created="2018-12-23 09:31:11" modified="2018-12-23 07:42:14" lastloaddate="2016-03-16 14:55:57" lastsavedate="2016-03-16 14:55:57"/>
+				<flags iscontrolled="0" isprotected="0" batchsave="0" batchload="0" usedtd="0" logxml="0"/>
+			</element>
+			<element xmi:idref="EAID_5848CFF4_A111_4639_A12E_8514422631AE" xmi:type="uml:Class" name="Accelerate the learning curve of complex tools" scope="public">
+				<model package="EAPK_C818703E_0672_48eb_AB49_4E71C738ABD4" tpos="0" ea_localid="895" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Class" nType="0" scope="public" isRoot="false" isLeaf="false" isAbstract="false" isActive="false"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:11" modified="2018-12-23 09:31:11" complexity="1" status="Proposed"/>
+				<code product_name="&lt;none&gt;" gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="03.Unique Value Propositions"/>
+			</element>
+			<element xmi:idref="EAID_38849580_7A5B_4773_89F3_D1E4B947C635" xmi:type="uml:Class" name="see, repeat, try, test Yourself" scope="public">
+				<model package="EAPK_C818703E_0672_48eb_AB49_4E71C738ABD4" tpos="0" ea_localid="893" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Class" nType="0" scope="public" isRoot="false" isLeaf="false" isAbstract="false" isActive="false"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:11" modified="2018-12-23 09:31:11" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="03.Unique Value Propositions"/>
+			</element>
+			<element xmi:idref="EAID_ACF141AD_DBDA_4d75_936C_141323D4F1AD" xmi:type="uml:Class" name="Systematic approach to handling complex subjects" scope="public">
+				<model package="EAPK_C818703E_0672_48eb_AB49_4E71C738ABD4" tpos="0" ea_localid="896" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Class" nType="0" scope="public" isRoot="false" isLeaf="false" isAbstract="false" isActive="false"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:11" modified="2018-12-23 09:31:11" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="03.Unique Value Propositions"/>
+			</element>
+			<element xmi:idref="EAID_A27859D5_15F8_4df3_AA36_77D8AE6B0727" xmi:type="uml:Class" name="Visualize complex themes" scope="public">
+				<model package="EAPK_C818703E_0672_48eb_AB49_4E71C738ABD4" tpos="0" ea_localid="894" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Class" nType="0" scope="public" isRoot="false" isLeaf="false" isAbstract="false" isActive="false"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:11" modified="2018-12-23 09:31:11" complexity="1" status="Proposed"/>
+				<code product_name="&lt;none&gt;" gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="03.Unique Value Propositions"/>
+			</element>
+			<element xmi:idref="EAPK_391ECB22_D96D_4143_B160_B274AE39A6F7" xmi:type="uml:Package" name="04.Solution(Customer Relationships)" scope="public">
+				<model package2="EAID_391ECB22_D96D_4143_B160_B274AE39A6F7" package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="289" ea_eleType="package"/>
+				<properties documentation="4. Solution&#xA;Finding a solution to the problem is the golden egg! You’re not going to get this right off the first bat&#8202;—&#8202;it’s OK, as that’s what Lean is all about. What you need to do is Get Out The Building&#8202;—&#8202;a phrase coined by the godfather of Lean Startup, Steve Blanks. And what Blank’s here is that the solution is not in your office, it’s out there in the streets. So go interview your customer segment, ask them questions, and take those learnings. Remember the Lean Startup is validated learning through a continual Build&#8202;—&#8202;Measure&#8202;—&#8202;Learn cycle." isSpecification="false" sType="Package" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:10" modified="2018-12-23 09:31:10" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+				<packageproperties version="1.0"/>
+				<paths/>
+				<times created="2018-12-23 09:31:11" modified="2018-12-23 08:52:24" lastloaddate="2016-03-16 14:55:57" lastsavedate="2016-03-16 14:55:57"/>
+				<flags iscontrolled="0" isprotected="0" batchsave="0" batchload="0" usedtd="0" logxml="0"/>
+			</element>
+			<element xmi:idref="EAID_5BD8C151_BD02_41dc_A16E_F6DFE573FBE7" xmi:type="uml:Class" name="Solution A" scope="public">
+				<model package="EAPK_391ECB22_D96D_4143_B160_B274AE39A6F7" tpos="0" ea_localid="898" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Class" nType="0" scope="public" isRoot="false" isLeaf="false" isAbstract="false" isActive="false"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:11" modified="2018-12-23 09:31:11" complexity="1" status="Proposed"/>
+				<code gentype="Java"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="04.Solution(Customer Relationships)"/>
+			</element>
+			<element xmi:idref="EAID_1CE0912E_26DD_444f_8044_54BE5337F174" xmi:type="uml:Class" name="Solution B" scope="public">
+				<model package="EAPK_391ECB22_D96D_4143_B160_B274AE39A6F7" tpos="0" ea_localid="897" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Class" nType="0" scope="public" isRoot="false" isLeaf="false" isAbstract="false" isActive="false"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:11" modified="2018-12-23 09:31:11" complexity="1" status="Proposed"/>
+				<code gentype="Java"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="04.Solution(Customer Relationships)"/>
+			</element>
+			<element xmi:idref="EAPK_9E8A673D_96FE_42e4_96EB_D1C8389F9E41" xmi:type="uml:Package" name="05.Channels" scope="public">
+				<model package2="EAID_9E8A673D_96FE_42e4_96EB_D1C8389F9E41" package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="290" ea_eleType="package"/>
+				<properties documentation="5. Channels&#xA;Channels are ways for you to reach your CS. And remember that in the initial stages it’s important not to think about scale but to focus on learning. With that in mind try to think which channels will give you enough access to your CS at the same time give you enough learning. Channels can be email, social, CPC ads, blogs, articles, trade shows, radio &amp;amp; TV, webinars etc. and BTW you don’t have to be on all of them, just where your CS are." isSpecification="false" sType="Package" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:10" modified="2018-12-23 09:31:10" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+				<packageproperties version="1.0"/>
+				<paths/>
+				<times created="2018-12-23 09:31:11" modified="2018-12-23 08:46:07" lastloaddate="2016-03-16 14:55:56" lastsavedate="2016-03-16 14:55:56"/>
+				<flags iscontrolled="0" isprotected="0" batchsave="0" batchload="0" usedtd="0" logxml="0"/>
+			</element>
+			<element xmi:idref="EAID_17F69C9A_43F7_468f_931A_5FC76F2D44C3" xmi:type="uml:Class" name="Channel A" scope="public">
+				<model package="EAPK_9E8A673D_96FE_42e4_96EB_D1C8389F9E41" tpos="0" ea_localid="899" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Class" nType="0" scope="public" isRoot="false" isLeaf="false" isAbstract="false" isActive="false"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:11" modified="2018-12-23 09:31:11" complexity="1" status="Proposed"/>
+				<code product_name="&lt;none&gt;" gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="05.Channels"/>
+			</element>
+			<element xmi:idref="EAID_F366E826_763C_4fbd_824F_8A35314EBB99" xmi:type="uml:Class" name="Channel B" scope="public">
+				<model package="EAPK_9E8A673D_96FE_42e4_96EB_D1C8389F9E41" tpos="0" ea_localid="900" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Class" nType="0" scope="public" isRoot="false" isLeaf="false" isAbstract="false" isActive="false"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:11" modified="2018-12-23 09:31:11" complexity="1" status="Proposed"/>
+				<code product_name="&lt;none&gt;" gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="05.Channels"/>
+			</element>
+			<element xmi:idref="EAPK_951E66E6_9401_411e_A336_E6040ED0E0AB" xmi:type="uml:Package" name="06.Revenue Streams" scope="public">
+				<model package2="EAID_951E66E6_9401_411e_A336_E6040ED0E0AB" package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="291" ea_eleType="package"/>
+				<properties documentation="6. Revenue Streams&#xA;How you price your business will depend on the type of model it is, however, it’s quite common for startups to lower their cost, even offer it for free to gain traction, however, this can pose a few problems. The key being it actually delays/avoids validation. Getting people to sign up for something for free is a lot different than asking them to pay. There is also the idea of perceived value. Further reading: &lt;a href=&quot;http://www.ekonomiaconsultants.com/616/&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;&lt;u&gt;Simple pricing strategies for your products or services, the lean way!&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;" isSpecification="false" sType="Package" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:10" modified="2018-12-23 09:31:10" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+				<packageproperties version="1.0"/>
+				<paths/>
+				<times created="2018-12-23 09:31:11" modified="2018-12-23 08:53:31" lastloaddate="2016-03-16 14:55:57" lastsavedate="2016-03-16 14:55:57"/>
+				<flags iscontrolled="0" isprotected="0" batchsave="0" batchload="0" usedtd="0" logxml="0"/>
+			</element>
+			<element xmi:idref="EAID_DA60C4FB_1934_4268_91D9_289C5DEE5A17" xmi:type="uml:Class" name="Revenue Stream A" scope="public">
+				<model package="EAPK_951E66E6_9401_411e_A336_E6040ED0E0AB" tpos="0" ea_localid="901" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Class" nType="0" scope="public" isRoot="false" isLeaf="false" isAbstract="false" isActive="false"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:11" modified="2018-12-23 09:31:11" complexity="1" status="Proposed"/>
+				<code product_name="&lt;none&gt;" gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="06.Revenue Streams"/>
+			</element>
+			<element xmi:idref="EAID_0B25E189_EF74_4857_AFD7_2F3D28FC5AAC" xmi:type="uml:Class" name="Revenue Stream B" scope="public">
+				<model package="EAPK_951E66E6_9401_411e_A336_E6040ED0E0AB" tpos="0" ea_localid="902" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Class" nType="0" scope="public" isRoot="false" isLeaf="false" isAbstract="false" isActive="false"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:11" modified="2018-12-23 09:31:11" complexity="1" status="Proposed"/>
+				<code product_name="&lt;none&gt;" gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="06.Revenue Streams"/>
+			</element>
+			<element xmi:idref="EAPK_81D9D408_A4CF_4f23_ADC9_EB4767D7948D" xmi:type="uml:Package" name="07.Cost Structure" scope="public">
+				<model package2="EAID_81D9D408_A4CF_4f23_ADC9_EB4767D7948D" package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="292" ea_eleType="package"/>
+				<properties documentation="7. Cost Structure&#xA;Here you should list all the operational costs for taking this business to market. How much will it cost to build / landing page? What is your burn rate&#8202;—&#8202;your total monthly running costs? How much will it cost to interview your customer segment? How much do market research papers cost? etc. You can then use these costs and potential revenue streams to calculate a rough break-even point." isSpecification="false" sType="Package" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:10" modified="2018-12-23 09:31:10" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+				<packageproperties version="1.0"/>
+				<paths/>
+				<times created="2018-12-23 09:31:11" modified="2018-12-23 08:54:27" lastloaddate="2016-03-16 14:55:56" lastsavedate="2016-03-16 14:55:56"/>
+				<flags iscontrolled="0" isprotected="0" batchsave="0" batchload="0" usedtd="0" logxml="0"/>
+			</element>
+			<element xmi:idref="EAID_528AA22A_6EE6_458a_9234_FE734AA91297" xmi:type="uml:Class" name="Cost A" scope="public">
+				<model package="EAPK_81D9D408_A4CF_4f23_ADC9_EB4767D7948D" tpos="0" ea_localid="904" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Class" nType="0" scope="public" isRoot="false" isLeaf="false" isAbstract="false" isActive="false"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:11" modified="2018-12-23 09:31:11" complexity="1" status="Proposed"/>
+				<code product_name="&lt;none&gt;" gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="07.Cost Structure"/>
+			</element>
+			<element xmi:idref="EAID_89DC1E60_00E8_4af5_9846_A31319B6CE06" xmi:type="uml:Class" name="Cost B" scope="public">
+				<model package="EAPK_81D9D408_A4CF_4f23_ADC9_EB4767D7948D" tpos="0" ea_localid="903" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Class" nType="0" scope="public" isRoot="false" isLeaf="false" isAbstract="false" isActive="false"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:11" modified="2018-12-23 09:31:11" complexity="1" status="Proposed"/>
+				<code product_name="&lt;none&gt;" gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="07.Cost Structure"/>
+			</element>
+			<element xmi:idref="EAPK_39A46B34_8AE7_4574_BE45_162EA06DDF8F" xmi:type="uml:Package" name="08.Key Metrics" scope="public">
+				<model package2="EAID_39A46B34_8AE7_4574_BE45_162EA06DDF8F" package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="293" ea_eleType="package"/>
+				<properties documentation="8. Key Metrics&#xA;Every business, no matter what industry or size, will have some key metrics that are used to monitor performance. The best way to help with this is to visualize a funnel top down that flows from the large open top, through multiple stages to the narrow end. A good model to help with this is Dave McClure’s ARRRR (aka Pirate Metrics)&#8202;—&#8202;further reading: Startup Metrics for Pirates" isSpecification="false" sType="Package" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:09" modified="2018-12-23 09:31:09" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+				<packageproperties version="1.0"/>
+				<paths/>
+				<times created="2018-12-23 09:31:11" modified="2018-12-23 08:55:03" lastloaddate="2016-03-16 14:55:57" lastsavedate="2016-03-16 14:55:57"/>
+				<flags iscontrolled="0" isprotected="0" batchsave="0" batchload="0" usedtd="0" logxml="0"/>
+			</element>
+			<element xmi:idref="EAID_0166FCE4_6D94_476e_95DA_0CCE695A6AAE" xmi:type="uml:Class" name="Key Metrics A" scope="public">
+				<model package="EAPK_39A46B34_8AE7_4574_BE45_162EA06DDF8F" tpos="0" ea_localid="905" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Class" nType="0" scope="public" isRoot="false" isLeaf="false" isAbstract="false" isActive="false"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:11" modified="2018-12-23 09:31:11" complexity="1" status="Proposed"/>
+				<code product_name="&lt;none&gt;" gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="08.Key Metrics"/>
+			</element>
+			<element xmi:idref="EAID_8B02DD62_4B5E_4c7a_A053_0F20B4E811FC" xmi:type="uml:Class" name="Key Metrics B" scope="public">
+				<model package="EAPK_39A46B34_8AE7_4574_BE45_162EA06DDF8F" tpos="0" ea_localid="906" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Class" nType="0" scope="public" isRoot="false" isLeaf="false" isAbstract="false" isActive="false"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:12" modified="2018-12-23 09:31:12" complexity="1" status="Proposed"/>
+				<code product_name="&lt;none&gt;" gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="08.Key Metrics"/>
+			</element>
+			<element xmi:idref="EAPK_50967298_7DCF_4adc_99FE_19F5EA18CDFB" xmi:type="uml:Package" name="09.Unfaire Advantages" scope="public">
+				<model package2="EAID_50967298_7DCF_4adc_99FE_19F5EA18CDFB" package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" tpos="0" ea_localid="294" ea_eleType="package"/>
+				<properties documentation="9. Unfair Advantage&#xA;This is the most difficult to block to answer. However, do try to think about this as having an unfair advantage can help when it comes seeking partners &amp;amp; investors. Here is a great definition of unfair advantage: “The only real competitive advantage is that which cannot be copied and cannot be bought.”&#8202;—&#8202;Jason Cohen. Unfair advantage can be insider information, a dream team, getting expert endorsements, existing customers etc. So rather than think about adding something like “commitment and passion” as an unfair advantage (because it is not), think about what you have that no one else can buy." isSpecification="false" sType="Package" nType="0" scope="public"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:09" modified="2018-12-23 09:31:09" complexity="1" status="Proposed"/>
+				<code gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Business Model Canvas- Blanc Lean Canvas by Ash Maurya and Q12 by Roman Kazicka"/>
+				<packageproperties version="1.0"/>
+				<paths/>
+				<times created="2018-12-23 09:31:12" modified="2018-12-23 08:56:14" lastloaddate="2016-03-16 14:55:57" lastsavedate="2016-03-16 14:55:57"/>
+				<flags iscontrolled="0" isprotected="0" batchsave="0" batchload="0" usedtd="0" logxml="0"/>
+			</element>
+			<element xmi:idref="EAID_F1962B9A_1588_48a3_B690_9A77F5099853" xmi:type="uml:Class" name="Unfair Advantage A" scope="public">
+				<model package="EAPK_50967298_7DCF_4adc_99FE_19F5EA18CDFB" tpos="1" ea_localid="908" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Class" nType="0" scope="public" isRoot="false" isLeaf="false" isAbstract="false" isActive="false"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:12" modified="2018-12-23 09:31:12" complexity="1" status="Proposed"/>
+				<code product_name="&lt;none&gt;" gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="09.Unfaire Advantages"/>
+			</element>
+			<element xmi:idref="EAID_8709E59B_31F2_4082_B81A_36282BD5F603" xmi:type="uml:Class" name="Unfair Advantage B" scope="public">
+				<model package="EAPK_50967298_7DCF_4adc_99FE_19F5EA18CDFB" tpos="2" ea_localid="907" ea_eleType="element"/>
+				<properties isSpecification="false" sType="Class" nType="0" scope="public" isRoot="false" isLeaf="false" isAbstract="false" isActive="false"/>
+				<project author="Roman Kazicka" version="1.0" phase="1.0" created="2018-12-23 09:31:12" modified="2018-12-23 09:31:12" complexity="1" status="Proposed"/>
+				<code product_name="&lt;none&gt;" gentype="&lt;none&gt;"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="09.Unfaire Advantages"/>
+			</element>
+		</elements>
+		<connectors/>
+		<primitivetypes>
+			<packagedElement xmi:type="uml:Package" xmi:id="EAPrimitiveTypesPackage" name="EA_PrimitiveTypes_Package"/>
+		</primitivetypes>
+		<profiles/>
+		<diagrams>
+			<diagram xmi:id="EAID_1E1DD592_7DC3_444e_B4AC_253D45FAE6F6">
+				<model package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" localID="205" owner="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B"/>
+				<properties name="01.Business Model Canvas- Blanc Lean Canvas by Ash Maurya" type="Logical" documentation="This Class diagram uses a series of boundaries to create the structure of the canvas. Classes can be added to each section of the canvas as needed.&#xA;"/>
+				<project author="Roman Kazicka" version="1.0" created="2018-12-23 09:31:12" modified="2018-12-23 09:41:23"/>
+				<style1 value="ShowPrivate=1;ShowProtected=1;ShowPublic=1;HideRelationships=0;Locked=0;Border=1;HighlightForeign=1;PackageContents=1;SequenceNotes=0;ScalePrintImage=0;PPgs.cx=1;PPgs.cy=1;DocSize.cx=1614;DocSize.cy=1134;ShowDetails=0;Orientation=L;Zoom=100;ShowTags=0;OpParams=1;VisibleAttributeDetail=0;ShowOpRetType=1;ShowIcons=1;CollabNums=0;HideProps=0;ShowReqs=0;ShowCons=0;PaperSize=8;HideParents=0;UseAlias=0;HideAtts=0;HideOps=0;HideStereo=0;HideElemStereo=0;ShowTests=0;ShowMaint=0;ConnectorNotation=UML 2.1;ExplicitNavigability=0;ShowShape=1;AllDockable=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;m_bElementClassifier=1;SPT=1;ShowNotes=0;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;NoFullScope=1;"/>
+				<style2 value="ExcludeRTF=0;DocAll=0;HideQuals=0;AttPkg=1;ShowTests=0;ShowMaint=0;SuppressFOC=1;MatrixActive=0;SwimlanesActive=1;KanbanActive=0;MatrixLineWidth=1;MatrixLineClr=0;MatrixLocked=0;TConnectorNotation=UML 2.1;TExplicitNavigability=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;m_bElementClassifier=1;SPT=1;MDGDgm=;STBLDgm=;ShowNotes=0;OPTIONS_25A7E0CE=InfoView=6:;OPTIONS_E6E8D265=InfoView=6:;OPTIONS_4E98FD88=InfoView=6:;OPTIONS_50BF1C9E=InfoView=6:;OPTIONS_7DC47BFE=InfoView=6:;OPTIONS_3FF90D7C=InfoView=6:;OPTIONS_FCDC3788=InfoView=6:;OPTIONS_279C302E=InfoView=6:;OPTIONS_D203B110=InfoView=6:;OPTIONS_D485279C=InfoView=6:;OPTIONS_6AE65E9E=InfoView=6:;OPTIONS_782EA402=InfoView=6:;OPTIONS_671F4772=InfoView=6:;OPTIONS_BDCE0ADF=InfoView=6:;OPTIONS_A393B466=InfoView=6:;OPTIONS_BC0D4333=InfoView=6:;OPTIONS_A39AC135=InfoView=6:;OPTIONS_0CA6C7E7=InfoView=6:;OPTIONS_6683A9D5=InfoView=6:;OPTIONS_DDF8EB1F=InfoView=6:;OPTIONS_10CF7B8C=InfoView=6:;OPTIONS_B9A0417E=InfoView=6:;OPTIONS_5B8634C6=InfoView=6:;VisibleAttributeDetail=0;ShowOpRetType=1;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;NoFullScope=1;SuppressedCompartments=;Theme=:119;SaveTag=3C0A8742;"/>
+				<swimlanes value="locked=false;orientation=0;width=0;inbar=false;names=false;color=0;bold=false;fcol=0;tcol=16777215;ofCol=-1;ufCol=-1;hl=0;ufh=0;hh=0;cls=0;bw=0;hli=0;SwimlaneFont=lfh:-10,lfw:0,lfi:0,lfu:0,lfs:0,lfface:Calibri,lfe:0,lfo:0,lfchar:1,lfop:0,lfcp:0,lfq:0,lfpf=0,lfWidth=0;"/>
+				<matrixitems value="locked=false;matrixactive=false;swimlanesactive=true;kanbanactive=false;width=1;clrLine=0;"/>
+				<extendedProperties/>
+				<elements>
+					<element geometry="Left=681;Top=246;Right=793;Bottom=284;" subject="EAID_1CE0912E_26DD_444f_8044_54BE5337F174" seqno="1" style="NSL=0;BFol=-1;LCol=-1;LWth=-1;fontsz=0;bold=0;black=0;italic=0;ul=0;charset=0;pitch=0;BCol=-1;DUID=33E77EDD;"/>
+					<element geometry="Left=681;Top=197;Right=793;Bottom=235;" subject="EAID_5BD8C151_BD02_41dc_A16E_F6DFE573FBE7" seqno="2" style="NSL=0;BFol=-1;LCol=-1;LWth=-1;fontsz=0;bold=0;black=0;italic=0;ul=0;charset=0;pitch=0;BCol=-1;DUID=FDEE66C1;"/>
+					<element geometry="Left=863;Top=246;Right=975;Bottom=284;" subject="EAID_EF7D0FE9_65A7_4f42_BF53_E3E89713A106" seqno="3" style="NSL=0;BFol=-1;LCol=-1;LWth=-1;fontsz=0;bold=0;black=0;italic=0;ul=0;charset=0;pitch=0;BCol=-1;DUID=EA08A434;"/>
+					<element geometry="Left=863;Top=197;Right=975;Bottom=235;" subject="EAID_93C3784F_4656_4750_B796_2EE7873194B3" seqno="4" style="NSL=0;BFol=-1;LCol=-1;LWth=-1;fontsz=0;bold=0;black=0;italic=0;ul=0;charset=0;pitch=0;BCol=-1;DUID=A6888811;"/>
+					<element geometry="Left=727;Top=636;Right=839;Bottom=674;" subject="EAID_0B25E189_EF74_4857_AFD7_2F3D28FC5AAC" seqno="5" style="NSL=0;BFol=-1;LCol=-1;LWth=-1;fontsz=0;bold=0;black=0;italic=0;ul=0;charset=0;pitch=0;BCol=-1;DUID=A7F77DAF;"/>
+					<element geometry="Left=135;Top=248;Right=247;Bottom=286;" subject="EAID_8709E59B_31F2_4082_B81A_36282BD5F603" seqno="6" style="ImageID=0;fontsz=0;bold=0;black=0;italic=0;ul=0;charset=0;pitch=0;NSL=0;BCol=-1;DUID=5B8634C6;"/>
+					<element geometry="Left=317;Top=243;Right=429;Bottom=281;" subject="EAID_8B02DD62_4B5E_4c7a_A053_0F20B4E811FC" seqno="7" style="ImageID=0;fontsz=0;bold=0;black=0;italic=0;ul=0;charset=0;pitch=0;NSL=0;BCol=-1;DUID=B9A0417E;"/>
+					<element geometry="Left=317;Top=402;Right=429;Bottom=440;" subject="EAID_F7A1E706_1284_4b4f_B1FA_519572DCE754" seqno="8" style="ImageID=0;fontsz=0;bold=0;black=0;italic=0;ul=0;charset=0;pitch=0;NSL=0;BCol=-1;DUID=10CF7B8C;"/>
+					<element geometry="Left=272;Top=585;Right=384;Bottom=623;" subject="EAID_528AA22A_6EE6_458a_9234_FE734AA91297" seqno="9" style="ImageID=0;fontsz=0;bold=0;black=0;italic=0;ul=0;charset=0;pitch=0;NSL=0;BCol=-1;DUID=DDF8EB1F;"/>
+					<element geometry="Left=272;Top=636;Right=384;Bottom=674;" subject="EAID_89DC1E60_00E8_4af5_9846_A31319B6CE06" seqno="10" style="ImageID=0;fontsz=0;bold=0;black=0;italic=0;ul=0;charset=0;pitch=0;NSL=0;BCol=-1;DUID=6683A9D5;"/>
+					<element geometry="Left=317;Top=452;Right=429;Bottom=490;" subject="EAID_453917C7_119B_4fbd_A71B_CB130E331EDC" seqno="11" style="ImageID=0;fontsz=0;bold=0;black=0;italic=0;ul=0;charset=0;pitch=0;NSL=0;BCol=-1;DUID=0CA6C7E7;"/>
+					<element geometry="Left=496;Top=281;Right=623;Bottom=319;" subject="EAID_A27859D5_15F8_4df3_AA36_77D8AE6B0727" seqno="12" style="ImageID=0;NSL=0;BCol=-1;DUID=A39AC135;"/>
+					<element geometry="Left=499;Top=197;Right=611;Bottom=265;" subject="EAID_5848CFF4_A111_4639_A12E_8514422631AE" seqno="13" style="NSL=0;BCol=-1;DUID=BC0D4333;"/>
+					<element geometry="Left=681;Top=452;Right=793;Bottom=490;" subject="EAID_F366E826_763C_4fbd_824F_8A35314EBB99" seqno="14" style="ImageID=0;fontsz=0;bold=0;black=0;italic=0;ul=0;charset=0;pitch=0;NSL=0;BCol=-1;DUID=A393B466;"/>
+					<element geometry="Left=681;Top=402;Right=793;Bottom=440;" subject="EAID_17F69C9A_43F7_468f_931A_5FC76F2D44C3" seqno="15" style="NSL=0;BCol=-1;DUID=BDCE0ADF;"/>
+					<element geometry="Left=318;Top=194;Right=430;Bottom=232;" subject="EAID_0166FCE4_6D94_476e_95DA_0CCE695A6AAE" seqno="16" style="ImageID=0;fontsz=0;bold=0;black=0;italic=0;ul=0;charset=0;pitch=0;NSL=0;BCol=-1;DUID=671F4772;"/>
+					<element geometry="Left=727;Top=585;Right=839;Bottom=623;" subject="EAID_DA60C4FB_1934_4268_91D9_289C5DEE5A17" seqno="17" style="ImageID=0;NSL=0;BCol=-1;DUID=782EA402;"/>
+					<element geometry="Left=134;Top=197;Right=246;Bottom=235;" subject="EAID_F1962B9A_1588_48a3_B690_9A77F5099853" seqno="18" style="NSL=0;BCol=-1;DUID=6AE65E9E;"/>
+					<element geometry="Left=555;Top=550;Right=1011;Bottom=720;" subject="EAID_AF9B7F02_A1D4_43f7_8CF4_2ED37D075C08" seqno="19" style="ImageID=0;NSL=1;DUID=D485279C;"/>
+					<element geometry="Left=646;Top=365;Right=829;Bottom=551;" subject="EAID_9A459EA5_2613_4f52_AED1_71C6F40B9DDD" seqno="20" style="ImageID=0;NSL=1;DUID=D203B110;"/>
+					<element geometry="Left=646;Top=160;Right=829;Bottom=366;" subject="EAID_32EBADE3_863F_438f_BB1C_331A4F3B8F89" seqno="21" style="ImageID=0;DUID=279C302E;NSL=1;"/>
+					<element geometry="Left=282;Top=365;Right=465;Bottom=551;" subject="EAID_BE6949C6_AF8A_4c72_B800_10B6F38716F0" seqno="22" style="ImageID=0;DUID=FCDC3788;NSL=1;"/>
+					<element geometry="Left=828;Top=160;Right=1011;Bottom=551;" subject="EAID_EBE92472_E2B6_4851_A6EB_AB6D6EE55ABF" seqno="23" style="ImageID=0;NSL=1;DUID=3FF90D7C;"/>
+					<element geometry="Left=464;Top=160;Right=647;Bottom=551;" subject="EAID_263C3AD3_6A99_4ce0_B2E0_6661C203D4D4" seqno="24" style="ImageID=0;NSL=1;DUID=7DC47BFE;"/>
+					<element geometry="Left=436;Top=86;Right=674;Bottom=125;" subject="EAID_CB2A1B44_A67A_4934_AA98_95DE19E840E1" seqno="25" style="font=Calibri;fontsz=180;bold=0;black=0;italic=0;ul=0;charset=0;pitch=34;TxAlign=2;BFol=-1;NSL=1;DUID=50BF1C9E;"/>
+					<element geometry="Left=100;Top=550;Right=556;Bottom=720;" subject="EAID_E9018474_D894_47c6_ACB6_76FA26108329" seqno="26" style="NSL=1;DUID=4E98FD88;"/>
+					<element geometry="Left=282;Top=160;Right=465;Bottom=365;" subject="EAID_E25FA059_5FE4_40c7_9721_1261562A10B4" seqno="27" style="DUID=E6E8D265;NSL=1;"/>
+					<element geometry="Left=99;Top=160;Right=282;Bottom=551;" subject="EAID_E6EEC7F4_7342_4a17_8136_9D816E03EC6C" seqno="28" style="NSL=0;Dockable=on;DUID=25A7E0CE;"/>
+				</elements>
+			</diagram>
+			<diagram xmi:id="EAID_BF92E921_EE5B_40dd_A647_586D26577742">
+				<model package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" localID="206" owner="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B"/>
+				<properties name="02.Business Model Canvas- Blanc Lean Canvas by Ash Maurya" type="Package"/>
+				<project author="Roman Kazicka" version="1.0" created="2018-12-23 09:31:12" modified="2018-12-23 09:41:23"/>
+				<style1 value="ShowPrivate=1;ShowProtected=1;ShowPublic=1;HideRelationships=0;Locked=0;Border=1;HighlightForeign=0;PackageContents=1;SequenceNotes=0;ScalePrintImage=1;PPgs.cx=1;PPgs.cy=1;DocSize.cx=827;DocSize.cy=1169;ShowDetails=0;Orientation=P;Zoom=100;ShowTags=0;OpParams=1;VisibleAttributeDetail=0;ShowOpRetType=1;ShowIcons=1;CollabNums=0;HideProps=0;ShowReqs=0;ShowCons=0;PaperSize=9;HideParents=0;UseAlias=0;HideAtts=0;HideOps=0;HideStereo=0;HideElemStereo=0;ShowTests=0;ShowMaint=0;ConnectorNotation=UML 2.1;ExplicitNavigability=0;ShowShape=1;AllDockable=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;m_bElementClassifier=1;SPT=1;ShowNotes=0;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;"/>
+				<style2 value="ExcludeRTF=0;DocAll=0;HideQuals=0;AttPkg=1;ShowTests=0;ShowMaint=0;SuppressFOC=1;MatrixActive=0;SwimlanesActive=1;KanbanActive=0;MatrixLineWidth=1;MatrixLineClr=0;MatrixLocked=0;TConnectorNotation=UML 2.1;TExplicitNavigability=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;m_bElementClassifier=1;SPT=1;MDGDgm=;STBLDgm=;ShowNotes=0;VisibleAttributeDetail=0;ShowOpRetType=1;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;SuppressedCompartments=;Theme=:119;SaveTag=72C39F8D;"/>
+				<swimlanes value="locked=false;orientation=0;width=0;inbar=false;names=false;color=-1;bold=false;fcol=0;tcol=-1;ofCol=-1;ufCol=-1;hl=0;ufh=0;hh=0;cls=0;bw=0;hli=0;SwimlaneFont=lfh:-10,lfw:0,lfi:0,lfu:0,lfs:0,lfface:Calibri,lfe:0,lfo:0,lfchar:1,lfop:0,lfcp:0,lfq:0,lfpf=0,lfWidth=0;"/>
+				<matrixitems value="locked=false;matrixactive=false;swimlanesactive=true;kanbanactive=false;width=1;clrLine=0;"/>
+				<extendedProperties/>
+				<elements>
+					<element geometry="Left=975;Top=59;Right=1162;Bottom=87;" subject="EAID_72F8752A_2363_4258_9232_F28A31D80220" seqno="1" style="font=Calibri;fontsz=160;bold=1;black=0;italic=1;ul=0;charset=0;pitch=34;BFol=0;ImageID=0;BCol=16777215;DUID=1DDCC926;"/>
+					<element geometry="Left=372;Top=38;Right=764;Bottom=74;" subject="EAID_E0D12BB9_D076_4a73_9B7F_F37BBA557AE9" seqno="2" style="BCol=65535;font=Calibri;fontsz=160;bold=1;black=0;italic=1;ul=0;charset=0;pitch=34;BFol=0;DUID=FC8FADA1;"/>
+					<element geometry="Left=355;Top=25;Right=879;Bottom=86;" subject="EAID_C9141737_70D8_4a97_A9A9_7CA7BB584D40" seqno="3" style="shape=rect;BCol=16777215;DUID=3AC9421C;"/>
+					<element geometry="Left=973;Top=26;Right=1160;Bottom=54;" subject="EAID_C88A9323_5755_4c7c_95CD_5FBA24649EDE" seqno="4" style="font=Calibri;fontsz=160;bold=1;black=0;italic=1;ul=0;charset=0;pitch=34;BFol=0;BCol=16777215;DUID=084AA478;"/>
+					<element geometry="Left=19;Top=34;Right=331;Bottom=70;" subject="EAID_C2F81F70_42AF_435e_B83D_A3CD0719E5FE" seqno="5" style="font=Calibri;bold=1;black=0;italic=1;ul=0;charset=0;pitch=34;BFol=0;fontsz=200;DUID=DE3D6587;"/>
+					<element geometry="Left=479;Top=149;Right=754;Bottom=247;" subject="EAID_C818703E_0672_48eb_AB49_4E71C738ABD4" seqno="6" style=" DUID=F4E36028;NSL=0;BCol=-1;BFol=-1;LCol=-1;LWth=-1;fontsz=0;bold=0;black=0;italic=0;ul=0;charset=0;pitch=0;DUID=8425488F;"/>
+					<element geometry="Left=645;Top=522;Right=791;Bottom=602;" subject="EAID_951E66E6_9401_411e_A336_E6040ED0E0AB" seqno="7" style=" DUID=FAF04316;NSL=0;BCol=-1;BFol=-1;LCol=-1;LWth=-1;fontsz=0;bold=0;black=0;italic=0;ul=0;charset=0;pitch=0;DUID=24CC2DF2;"/>
+					<element geometry="Left=37;Top=149;Right=199;Bottom=229;" subject="EAID_5EF4E9EB_A3FA_45df_8028_849A136F8100" seqno="8" style=" DUID=9A31BB05;NSL=0;BCol=-1;BFol=-1;LCol=-1;LWth=-1;fontsz=0;bold=0;black=0;italic=0;ul=0;charset=0;pitch=0;DUID=5CE14A3D;"/>
+					<element geometry="Left=794;Top=149;Right=994;Bottom=229;" subject="EAID_50967298_7DCF_4adc_99FE_19F5EA18CDFB" seqno="9" style=" DUID=4AA4B70C;NSL=0;BCol=-1;BFol=-1;LCol=-1;LWth=-1;fontsz=0;bold=0;black=0;italic=0;ul=0;charset=0;pitch=0;DUID=B60250CF;"/>
+					<element geometry="Left=5;Top=109;Right=229;Bottom=480;" subject="EAID_8E2C7415_D409_4300_9798_D3A4A20F35F3" seqno="10" style="Dockable=on;BCol=16777215;NSL=0;DUID=A67F174B;LCol=0;BFol=0;LWth=0;font=Calibri;fontsz=140;bold=1;black=0;italic=0;ul=0;charset=0;pitch=0;"/>
+					<element geometry="Left=242;Top=357;Right=413;Bottom=437;" subject="EAID_39A46B34_8AE7_4574_BE45_162EA06DDF8F" seqno="11" style=" DUID=C81748FA;NSL=0;BCol=-1;BFol=-1;LCol=-1;LWth=-1;fontsz=0;bold=0;black=0;italic=0;ul=0;charset=0;pitch=0;DUID=FAD00DA7;"/>
+					<element geometry="Left=1046;Top=150;Right=1183;Bottom=230;" subject="EAID_E6C5E452_2EDE_4fe0_88C9_8A3E2B725768" seqno="12" style=" DUID=EDDC1D5B;NSL=0;BCol=-1;BFol=-1;LCol=-1;LWth=-1;fontsz=0;bold=0;black=0;italic=0;ul=0;charset=0;pitch=0;DUID=EDFB2F38;"/>
+					<element geometry="Left=241;Top=150;Right=440;Bottom=230;" subject="EAID_391ECB22_D96D_4143_B160_B274AE39A6F7" seqno="13" style=" DUID=2204D84F;NSL=0;BCol=-1;BFol=-1;LCol=-1;LWth=-1;fontsz=0;bold=0;black=0;italic=0;ul=0;charset=0;pitch=0;DUID=DAB2B836;"/>
+					<element geometry="Left=31;Top=527;Right=221;Bottom=607;" subject="EAID_81D9D408_A4CF_4f23_ADC9_EB4767D7948D" seqno="14" style=" DUID=ABCE69FC;NSL=0;BCol=-1;BFol=-1;LCol=-1;LWth=-1;fontsz=0;bold=0;black=0;italic=0;ul=0;charset=0;pitch=0;DUID=188C57CE;"/>
+					<element geometry="Left=814;Top=323;Right=944;Bottom=403;" subject="EAID_9E8A673D_96FE_42e4_96EB_D1C8389F9E41" seqno="15" style=" DUID=F16E100D;NSL=0;BCol=-1;BFol=-1;LCol=-1;LWth=-1;fontsz=0;bold=0;black=0;italic=0;ul=0;charset=0;pitch=0;DUID=8BBD7E7E;"/>
+					<element geometry="Left=1007;Top=109;Right=1225;Bottom=480;" subject="EAID_9148212E_AFEA_4326_AD9B_51DAD428BD5E" seqno="16" style="Dockable=on;ImageID=0;LCol=0;BCol=16777215;BFol=0;LWth=0;font=Calibri;fontsz=140;bold=1;black=0;italic=0;ul=0;charset=0;pitch=0;NSL=1;DUID=E8854F1C;"/>
+					<element geometry="Left=461;Top=109;Right=775;Bottom=480;" subject="EAID_447AFE8B_2BCE_4341_94C1_06533EC88E8A" seqno="17" style="Dockable=on;ImageID=0;LCol=0;BCol=16777215;BFol=0;LWth=0;font=Calibri;fontsz=140;bold=1;black=0;italic=0;ul=0;charset=0;pitch=0;NSL=1;DUID=CD59E931;"/>
+					<element geometry="Left=775;Top=286;Right=1007;Bottom=480;" subject="EAID_BB419368_F51D_41d0_9D54_F437FFA3C2D1" seqno="18" style="Dockable=on;ImageID=0;BCol=16777215;font=Calibri;bold=1;black=0;italic=0;ul=0;charset=0;BFol=0;LCol=0;LWth=0;fontsz=140;pitch=0;NSL=1;DUID=37E234FD;"/>
+					<element geometry="Left=229;Top=109;Right=461;Bottom=286;" subject="EAID_CF81E542_47F6_437e_A189_E47C72A8B124" seqno="19" style="Dockable=on;ImageID=0;LCol=0;BCol=16777215;BFol=0;LWth=0;font=Calibri;fontsz=140;bold=1;black=0;italic=0;ul=0;charset=0;pitch=0;NSL=1;DUID=51CEDF21;"/>
+					<element geometry="Left=617;Top=480;Right=1225;Bottom=654;" subject="EAID_0A46B2C7_EB14_4ea4_8377_2974136A6B1A" seqno="20" style="Dockable=on;ImageID=0;LCol=0;BCol=16777215;BFol=0;LWth=0;font=Calibri;fontsz=140;bold=1;black=0;italic=0;ul=0;charset=0;pitch=0;NSL=1;DUID=336C8318;"/>
+					<element geometry="Left=229;Top=286;Right=461;Bottom=480;" subject="EAID_59525095_9FD6_44d6_BD52_F5C3969AECBD" seqno="21" style="Dockable=on;ImageID=0;LCol=0;BCol=16777215;BFol=0;LWth=0;font=Calibri;fontsz=140;bold=1;black=0;italic=0;ul=0;charset=0;pitch=0;NSL=1;DUID=53F2A2EF;"/>
+					<element geometry="Left=775;Top=109;Right=1007;Bottom=286;" subject="EAID_09489C14_6C49_48b4_933A_F52222CBCCFF" seqno="22" style="Dockable=on;ImageID=0;BCol=16777215;font=Calibri;fontsz=140;bold=1;black=0;italic=0;ul=0;charset=0;pitch=34;BFol=0;NSL=1;DUID=E939821E;"/>
+					<element geometry="Left=5;Top=480;Right=616;Bottom=654;" subject="EAID_503D2A74_F013_4133_ACDB_A74C0B9974B1" seqno="23" style="Dockable=on;ImageID=0;LCol=0;BCol=16777215;BFol=0;LWth=0;font=Calibri;fontsz=140;bold=1;black=0;italic=0;ul=0;charset=0;pitch=0;NSL=1;DUID=D6FB4EB6;"/>
+					<element geometry="Left=0;Top=17;Right=1244;Bottom=683;" subject="EAID_69FADB38_B970_4055_B620_991A687042BF" seqno="24" style="shape=rounded;BCol=13882323;NSL=1;DUID=BD8C028D;"/>
+				</elements>
+			</diagram>
+			<diagram xmi:id="EAID_6136C85E_A41D_41d5_844C_12BA53C39E99">
+				<model package="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B" localID="207" owner="EAPK_8B72CE0C_8691_48a8_9DA2_8AFD2D905B4B"/>
+				<properties name="03.Look And Repeat-Lean Canvas in Q12" type="Custom"/>
+				<project author="Roman Kazicka" version="1.0" created="2018-12-23 09:31:12" modified="2018-12-23 09:49:14"/>
+				<style1 value="ShowPrivate=1;ShowProtected=1;ShowPublic=1;HideRelationships=0;Locked=0;Border=1;HighlightForeign=0;PackageContents=1;SequenceNotes=0;ScalePrintImage=1;PPgs.cx=1;PPgs.cy=1;DocSize.cx=1138;DocSize.cy=795;ShowDetails=1;Orientation=L;Zoom=100;ShowTags=0;OpParams=1;VisibleAttributeDetail=0;ShowOpRetType=1;ShowIcons=1;CollabNums=0;HideProps=0;ShowReqs=0;ShowCons=0;PaperSize=9;HideParents=1;UseAlias=0;HideAtts=0;HideOps=0;HideStereo=0;HideElemStereo=0;ShowTests=0;ShowMaint=0;ConnectorNotation=UML 2.1;ExplicitNavigability=0;ShowShape=1;AllDockable=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;m_bElementClassifier=1;SPT=1;ShowNotes=0;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;"/>
+				<style2 value="ExcludeRTF=0;DocAll=0;HideQuals=0;AttPkg=1;ShowTests=0;ShowMaint=0;SuppressFOC=1;MatrixActive=0;SwimlanesActive=1;KanbanActive=0;MatrixLineWidth=1;MatrixLineClr=0;MatrixLocked=0;TConnectorNotation=UML 2.1;TExplicitNavigability=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;m_bElementClassifier=1;SPT=1;MDGDgm=;STBLDgm=;ShowNotes=0;VisibleAttributeDetail=0;ShowOpRetType=1;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;SuppressedCompartments=;Theme=:119;SaveTag=CE7095DC;"/>
+				<swimlanes value="locked=false;orientation=0;width=0;inbar=false;names=false;color=0;bold=false;fcol=0;tcol=-1;ofCol=-1;ufCol=-1;hl=0;ufh=0;hh=0;cls=0;bw=0;hli=0;SwimlaneFont=lfh:-10,lfw:0,lfi:0,lfu:0,lfs:0,lfface:Calibri,lfe:0,lfo:0,lfchar:1,lfop:0,lfcp:0,lfq:0,lfpf=0,lfWidth=0;"/>
+				<matrixitems value="locked=false;matrixactive=false;swimlanesactive=true;kanbanactive=false;width=1;clrLine=0;"/>
+				<extendedProperties/>
+				<elements>
+					<element geometry="Left=239;Top=189;Right=514;Bottom=283;" subject="EAID_C818703E_0672_48eb_AB49_4E71C738ABD4" seqno="1" style="NSL=0;DUID=F3B64720;"/>
+					<element geometry="Left=827;Top=291;Right=957;Bottom=371;" subject="EAID_951E66E6_9401_411e_A336_E6040ED0E0AB" seqno="2" style="NSL=0;DUID=2A506014;"/>
+					<element geometry="Left=54;Top=202;Right=225;Bottom=281;" subject="EAID_5EF4E9EB_A3FA_45df_8028_849A136F8100" seqno="3" style="NSL=0;DUID=538303E4;"/>
+					<element geometry="Left=562;Top=202;Right=762;Bottom=282;" subject="EAID_50967298_7DCF_4adc_99FE_19F5EA18CDFB" seqno="4" style="NSL=0;DUID=81A4ABB6;"/>
+					<element geometry="Left=1106;Top=269;Right=1277;Bottom=349;" subject="EAID_39A46B34_8AE7_4574_BE45_162EA06DDF8F" seqno="5" style="NSL=0;DUID=2C4CE09E;"/>
+					<element geometry="Left=361;Top=416;Right=498;Bottom=496;" subject="EAID_E6C5E452_2EDE_4fe0_88C9_8A3E2B725768" seqno="6" style="NSL=0;DUID=21949E92;"/>
+					<element geometry="Left=242;Top=295;Right=441;Bottom=375;" subject="EAID_391ECB22_D96D_4143_B160_B274AE39A6F7" seqno="7" style="NSL=0;DUID=8483FA22;"/>
+					<element geometry="Left=825;Top=190;Right=955;Bottom=270;" subject="EAID_81D9D408_A4CF_4f23_ADC9_EB4767D7948D" seqno="8" style="NSL=0;DUID=2CE768C7;"/>
+					<element geometry="Left=825;Top=417;Right=955;Bottom=497;" subject="EAID_9E8A673D_96FE_42e4_96EB_D1C8389F9E41" seqno="9" style=" NSL=0;BCol=-1;BFol=-1;LCol=-1;LWth=-1;fontsz=0;bold=0;black=0;italic=0;ul=0;charset=0;pitch=0;DUID=86460A59;"/>
+					<element geometry="Left=50;Top=170;Right=90;Bottom=186;" subject="EAID_7BCCB67D_4AD2_43c7_B961_126464AAA47F" seqno="10" style="LCol=0;BCol=16763904;BFol=0;font=ARIAL;fontsz=80;bold=0;black=0;italic=0;ul=0;charset=0;pitch=0;HideIcon=1;LWth=0;DUID=BB3EA357;"/>
+					<element geometry="Left=60;Top=600;Right=96;Bottom=616;" subject="EAID_2994B7F7_BFD0_4a68_82D7_73B21FA51406" seqno="11" style="HideIcon=1;LCol=0;BCol=16763904;BFol=0;font=ARIAL;fontsz=80;bold=0;black=0;italic=0;ul=0;charset=0;pitch=0;DUID=FDB0399D;"/>
+					<element geometry="Left=45;Top=99;Right=79;Bottom=118;" subject="EAID_FD5E4838_B6C3_4ebd_83C2_C3F67A8BFA8A" seqno="12" style="HideIcon=1;DUID=6F9E5025;"/>
+					<element geometry="Left=1085;Top=111;Right=1320;Bottom=140;" subject="EAID_16E904F6_E4E4_4a62_B50B_8FA976833211" seqno="13" style="font=Arial;fontsz=140;bold=1;black=0;italic=0;ul=0;charset=0;pitch=34;ImageID=0;BCol=65280;NSL=1;DUID=0DA04ED8;"/>
+					<element geometry="Left=1035;Top=71;Right=1345;Bottom=790;" subject="EAID_5F4EE178_383D_432d_AA26_5FFF0B66101C" seqno="14" style="Dockable=on;ImageID=0;VPartition=1;fontsz=100;black=0;italic=0;ul=0;charset=0;pitch=34;font=Arial;bold=1;NSL=1;DUID=9D63D7F6;"/>
+					<element geometry="Left=815;Top=111;Right=1015;Bottom=140;" subject="EAID_AA4E8572_B5C5_45ea_90B1_C7E82A50D44D" seqno="15" style="BCol=10092287;font=Arial;fontsz=140;bold=1;black=0;italic=0;ul=0;charset=0;pitch=34;ImageID=0;NSL=1;DUID=79D521A4;"/>
+					<element geometry="Left=805;Top=71;Right=1035;Bottom=790;" subject="EAID_B099A44D_A1D8_4d19_A175_881885949BCF" seqno="16" style="Dockable=on;ImageID=0;VPartition=1;fontsz=100;black=0;italic=0;ul=0;charset=0;pitch=34;font=Arial;bold=1;NSL=1;DUID=45C1BC86;"/>
+					<element geometry="Left=585;Top=93;Right=799;Bottom=155;" subject="EAID_CBBDF3F4_31E8_46bc_A6A5_10A280C3D71F" seqno="17" style="font=Arial;fontsz=140;bold=1;black=0;italic=0;ul=0;charset=0;pitch=34;ImageID=0;BCol=13434828;NSL=1;DUID=6E8FD687;"/>
+					<element geometry="Left=523;Top=71;Right=805;Bottom=790;" subject="EAID_7DC91AF5_7394_486c_98BA_21F591532E28" seqno="18" style="Dockable=on;ImageID=0;VPartition=1;fontsz=100;black=0;italic=0;ul=0;charset=0;pitch=34;font=Arial;bold=1;NSL=1;DUID=31EC8F99;"/>
+					<element geometry="Left=115;Top=111;Right=491;Bottom=140;" subject="EAID_E302F50F_6AC4_496a_98A1_77076337FA1E" seqno="19" style="black=0;italic=0;ul=0;charset=0;pitch=34;BCol=65280;font=Arial;bold=1;fontsz=140;NSL=1;DUID=299D984B;"/>
+					<element geometry="Left=37;Top=71;Right=523;Bottom=790;" subject="EAID_69AB6FE5_08AD_4849_9AAA_649D046F0E25" seqno="20" style="Dockable=on;ImageID=0;VPartition=1;fontsz=100;black=0;italic=0;ul=0;charset=0;pitch=34;font=Arial;bold=1;NSL=1;DUID=152F82D0;"/>
+					<element geometry="Left=15;Top=591;Right=1345;Bottom=790;" subject="EAID_92EC1600_188C_42d8_8DD7_86402442896F" seqno="21" style="Dockable=on;ImageID=0;fontsz=100;black=0;italic=0;ul=0;charset=0;pitch=34;font=Arial;bold=1;NSL=1;DUID=67FFFD09;"/>
+					<element geometry="Left=15;Top=385;Right=1345;Bottom=591;" subject="EAID_AE67BA38_B9F5_4e1d_A772_B508C76A56C8" seqno="22" style="Dockable=on;ImageID=0;font=Arial;fontsz=100;bold=1;black=0;italic=0;ul=0;charset=0;pitch=34;NSL=1;DUID=08956D14;"/>
+					<element geometry="Left=15;Top=160;Right=1345;Bottom=385;" subject="EAID_D691177C_3CE9_414b_A78B_0234DA100FBA" seqno="23" style="Dockable=on;font=Arial;fontsz=100;bold=1;black=0;italic=0;ul=0;charset=0;pitch=34;NSL=1;DUID=5E2D2021;"/>
+				</elements>
+			</diagram>
+		</diagrams>
+	</xmi:Extension>
+</xmi:XMI>
